@@ -1,0 +1,26 @@
+
+    body{
+      background: maroon;
+    }
+    fieldset{
+      height: px;
+      background: black;
+      color: white;
+      text-align: center;
+      width:400px ;
+      margin-left: 500px;
+      margin-top: 70px;
+    }
+    label{
+      display: block;
+      font-size: px;
+    }
+    .ambroise{
+      width: 350px;
+      padding: 12px;
+    }
+    h1{
+      background: blue;
+      color: white;
+      text-align: center;
+    }

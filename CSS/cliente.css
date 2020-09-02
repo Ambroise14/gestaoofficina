@@ -1,0 +1,123 @@
+body{
+  background-color:white;
+}
+/* essa parte e sobre input*/
+.longo{
+  width: 420px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  display: block;
+  padding: 15px;
+
+}
+/*fim*/
+
+/* essa parte e sobre  o compo de descricao*/
+.longo1{
+  display: block;
+  width: 380px;
+  height: 190px;
+}
+/* fim*/
+
+/* essa parte e sobre  o quadro de descricao*/
+#cado2{
+  width: 450px;
+  margin-left: 600px;
+  margin-top: -295px;
+  height: 310px;
+  border: solid 0px;
+  position: relative;
+
+}
+#des{
+  width: 422px;
+  
+}
+
+/* fim*/
+#vb{
+  width: 300px;
+  margin-left: 1020px;
+  padding: 15px;
+  background: blue;
+  color: white;
+}
+/* essa parte e sobre  a tela*/
+#styletable{
+  width: 1300px;
+  background: white;
+}
+td{
+  border: solid 1px black;
+ 
+}
+th{
+  border: solid 1px black;
+  background: blue;
+  color: white;
+}
+
+/* fim*/
+.style{
+  border-radius: 20px;
+  font-style: italic;
+  font-size: 15px;
+
+}
+/* essa parte e sobre pagina exibicliente*/
+fieldset{
+  border: solid 2px black;
+  background: yellowgreen;
+}
+#edita{
+  width: 200px;
+  height: 150px;
+  background: red;
+  margin-left: 750px;
+}
+h2{
+  background: red;
+  color: white;
+  text-align: center;
+}
+#busca{
+  width: 150px;
+  padding: 10px;
+  transition: 4s;
+}
+#busca:focus{
+  width: 400px;
+}
+.buscadata{
+  width: 150px;
+  padding: 10px;
+}
+#vbs{
+  width: 200px;
+  padding: 19px;
+  background:black;
+  color: white;
+}
+
+/* fim da  pagina exibicliente*/
+#ambroise{
+  border: solid 0px black;
+  height: 100px;
+  margin-left:625px;
+  width: 100px;
+  margin-top: -305px;
+}
+.mk{
+  width: 350px;
+  padding: 19px;
+}
+#ba{
+  background: white;
+  color: red;
+  font-size: 25px;
+}
+#novo{
+  background:black;
+  color: white;
+}
